@@ -2,6 +2,9 @@
 
 Welcome to **Subs-Your-Way**! This app allows users to browse the menu, add, delete, and place orders for their favorite sandwiches.
 
+## Screenshot
+<img src="menu-subs.png" />
+
 ## Features
 
 - **Browse Menu**: View a variety of sandwiches available.
