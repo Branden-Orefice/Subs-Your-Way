@@ -11,6 +11,7 @@ Welcome to **Subs-Your-Way**! This app allows users to browse the menu, add, del
 - **Add to Order**: Select your favorite sandwiches and add them to your order.
 - **Delete from Order**: Remove sandwiches from your order if you change your mind.
 - **Place Order**: Finalize your order and get ready to enjoy your meal!
+- **Stores Orders**: Utilizes Supabase to keep track of all orders.
 
 ## Installation
 
